@@ -1,0 +1,11 @@
+Q1: Most successful genre of movies
+
+Q2: Most successful film Studios and their most successful genre
+
+Q3: Correlation of top 100 most successful movies and top 100 most popular movies
+
+Q4: Top 10 most successful Directors and how often they directed in top 100 most successful movies
+
+Q5: Most profitable Actors and what genre they appear in the most
+
+Q6: Writers of the 10 most successful Action movies (most succesful genre)
