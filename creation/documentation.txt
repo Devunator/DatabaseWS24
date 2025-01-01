@@ -1,9 +1,0 @@
-1) movies.csv is the original dataset from https://www.kaggle.com/datasets/danielgrijalvas/movies/data .
-
-2) data_manipulation.ipnyb is the python file which splits the data into several csv files it gives every
-   unique Actor, writer, director and Company Name an id, and replaces the entry in the film table with the
-   corrosponding id. It basically prepares the one dataset for Ingestion.
-
-3) Creation.sql creates the database, every table is created according to the ERDiagram.
-
-4) Ingestion.sql fills the database using the newly formed table csv files.
